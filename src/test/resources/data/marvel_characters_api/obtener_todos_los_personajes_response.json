@@ -1,0 +1,448 @@
+[
+    {
+        "id": 27,
+        "name": "Valid Character-1750394549392",
+        "alterego": "Valid Alter",
+        "description": "Valid description",
+        "powers": [
+            "Power1",
+            "Power2"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Test Special-1750394550905",
+        "alterego": "Special Alter",
+        "description": "Description with symbols",
+        "powers": [
+            "Power1",
+            "Power2"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Iron Man",
+        "alterego": "Tony Stark",
+        "description": "Updated description",
+        "powers": [
+            "Armor",
+            "Flight"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Valid Character-1750394648357",
+        "alterego": "Valid Alter",
+        "description": "Valid description",
+        "powers": [
+            "Power1",
+            "Power2"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Test Special-1750394649920",
+        "alterego": "Special Alter",
+        "description": "Description with symbols",
+        "powers": [
+            "Power1",
+            "Power2"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Iron Man",
+        "alterego": "Tony Stark M",
+        "description": "Updated description",
+        "powers": [
+            "Armor",
+            "Flight"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Iron Man",
+        "alterego": "Tony Stark",
+        "description": "Updated description",
+        "powers": [
+            "Armor",
+            "Flight"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Valid Character-1750394792389",
+        "alterego": "Valid Alter",
+        "description": "Valid description",
+        "powers": [
+            "Power1",
+            "Power2"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Test Special-1750394793916",
+        "alterego": "Special Alter",
+        "description": "Description with symbols",
+        "powers": [
+            "Power1",
+            "Power2"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Valid Character-1750394826921",
+        "alterego": "Valid Alter",
+        "description": "Valid description",
+        "powers": [
+            "Power1",
+            "Power2"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Test Special-1750394828328",
+        "alterego": "Special Alter",
+        "description": "Description with symbols",
+        "powers": [
+            "Power1",
+            "Power2"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Test Special-1750394871627",
+        "alterego": "Special Alter",
+        "description": "Description with symbols",
+        "powers": [
+            "Power1",
+            "Power2"
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Spider Man",
+        "alterego": "Peter Parker",
+        "description": "student",
+        "powers": [
+            "Flight"
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Iron Man",
+        "alterego": "Otro",
+        "description": "Otro",
+        "powers": [
+            "Armor"
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Iron Man2",
+        "alterego": "Tony Stark",
+        "description": "Genius billionaire",
+        "powers": [
+            "Armor",
+            "Flight"
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Test",
+        "alterego": "Tony Stark",
+        "description": "Genius billionaire",
+        "powers": [
+            "Armor",
+            "Flight"
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Iron Man23",
+        "alterego": "Tony Stark",
+        "description": "Genius billionaire",
+        "powers": [
+            "Armor",
+            "Flight"
+        ]
+    },
+    {
+        "id": 47,
+        "name": "SY",
+        "alterego": "SYS",
+        "description": "Genio, millonario, playboy, filántropo",
+        "powers": [
+            "Armadura",
+            "Inteligencia"
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Iron Man1",
+        "alterego": "Tony Stark",
+        "description": "Genius billionaire",
+        "powers": [
+            "Armor",
+            "Flight"
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Iron Man3",
+        "alterego": "Otro",
+        "description": "Otro",
+        "powers": [
+            "Armor"
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Eve",
+        "alterego": "otro",
+        "description": "otro",
+        "powers": [
+            "jdjdjd"
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Red Ranger",
+        "alterego": "Jason",
+        "description": "Red Power Ranger",
+        "powers": [
+            "Armor",
+            "Fight"
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Andres",
+        "alterego": "RogerFeederer",
+        "description": "Feeder supremos",
+        "powers": [
+            "Support",
+            "Hc"
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Doraemon",
+        "alterego": "Doraemon",
+        "description": "Genius billionaire",
+        "powers": [
+            "Armor",
+            "Flight"
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Spider-Man",
+        "alterego": "Peter Parker",
+        "description": "Superhéroe arácnido de Marvel",
+        "powers": [
+            "Agilidad",
+            "Sentido arácnido",
+            "Trepar muros"
+        ]
+    },
+    {
+        "id": 58,
+        "name": "Gerson Veramendi",
+        "alterego": "Senior FullStack Developer",
+        "description": "Genius billionaire",
+        "powers": [
+            "Java",
+            "Python",
+            "JavaScript",
+            "TypeScript",
+            "PHP",
+            ".NET"
+        ]
+    },
+    {
+        "id": 59,
+        "name": "KarateTestUser",
+        "alterego": "Karate Alter",
+        "description": "Personaje creado para pruebas automáticas",
+        "powers": [
+            "TestPower1",
+            "TestPower2"
+        ]
+    },
+    {
+        "id": 63,
+        "name": "Eduardo Vizuete",
+        "alterego": "eduviz",
+        "description": "eduardo dev",
+        "powers": [
+            "Armor",
+            "Flight"
+        ]
+    },
+    {
+        "id": 65,
+        "name": "Iron Maiden",
+        "alterego": "Tony Stark",
+        "description": "Genius billionaire",
+        "powers": [
+            "Armor",
+            "Flight"
+        ]
+    },
+    {
+        "id": 66,
+        "name": "Iron Man 1750431405867",
+        "alterego": "Tony Stark",
+        "description": "Genius billionaire",
+        "powers": [
+            "Armor",
+            "Flight"
+        ]
+    },
+    {
+        "id": 67,
+        "name": "Iron Man Test3 1750431406349",
+        "alterego": "Tony Stark",
+        "description": "Genius billionaire",
+        "powers": [
+            "Armor",
+            "Flight"
+        ]
+    },
+    {
+        "id": 68,
+        "name": "Iron Man Test5 1750431407189",
+        "alterego": "Tony Stark",
+        "description": "Genius billionaire",
+        "powers": [
+            "Armor",
+            "Flight"
+        ]
+    },
+    {
+        "id": 69,
+        "name": "Iron Man Test7 1750431410793",
+        "alterego": "Tony Stark",
+        "description": "Updated description",
+        "powers": [
+            "Armor",
+            "Flight"
+        ]
+    },
+    {
+        "id": 71,
+        "name": "Spider-Man Test11 1750431412674",
+        "alterego": "Peter Parker",
+        "description": "Superhéroe arácnido",
+        "powers": [
+            "Agilidad",
+            "Sentido arácnido",
+            "Trepar muros"
+        ]
+    },
+    {
+        "id": 72,
+        "name": "Captain America Test11 1750431412674",
+        "alterego": "Steve Rogers",
+        "description": "Súper soldado",
+        "powers": [
+            "Fuerza",
+            "Escudo",
+            "Liderazgo"
+        ]
+    },
+    {
+        "id": 73,
+        "name": "kcatucuamba",
+        "alterego": "kcatucuamba",
+        "description": "A genius programmer and a superhero",
+        "powers": [
+            "PHP",
+            "JAVA"
+        ]
+    },
+    {
+        "id": 74,
+        "name": "Iron Man 1750431456185",
+        "alterego": "Tony Stark",
+        "description": "Genius billionaire",
+        "powers": [
+            "Armor",
+            "Flight"
+        ]
+    },
+    {
+        "id": 75,
+        "name": "Iron Man Test3 1750431456502",
+        "alterego": "Tony Stark",
+        "description": "Genius billionaire",
+        "powers": [
+            "Armor",
+            "Flight"
+        ]
+    },
+    {
+        "id": 76,
+        "name": "Iron Man Test5 1750431457318",
+        "alterego": "Tony Stark",
+        "description": "Genius billionaire",
+        "powers": [
+            "Armor",
+            "Flight"
+        ]
+    },
+    {
+        "id": 77,
+        "name": "Iron Man Test7 1750431458110",
+        "alterego": "Tony Stark",
+        "description": "Updated description",
+        "powers": [
+            "Armor",
+            "Flight"
+        ]
+    },
+    {
+        "id": 79,
+        "name": "Spider-Man Test11 1750431459939",
+        "alterego": "Peter Parker",
+        "description": "Superhéroe arácnido",
+        "powers": [
+            "Agilidad",
+            "Sentido arácnido",
+            "Trepar muros"
+        ]
+    },
+    {
+        "id": 80,
+        "name": "Captain America Test11 1750431459939",
+        "alterego": "Steve Rogers",
+        "description": "Súper soldado",
+        "powers": [
+            "Fuerza",
+            "Escudo",
+            "Liderazgo"
+        ]
+    },
+    {
+        "id": 81,
+        "name": "Iron ManX",
+        "alterego": "Tony Stark",
+        "description": "Genius billionaire",
+        "powers": [
+            "Armor",
+            "Flight"
+        ]
+    },
+    {
+        "id": 83,
+        "name": "Chapulin-Colorado",
+        "alterego": "Chespirito",
+        "description": "mas fuerte que un raton",
+        "powers": [
+            "Valentía",
+            "Humor"
+        ]
+    }
+    // ...continúa el array según el JSON proporcionado...
+]
